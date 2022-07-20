@@ -8,7 +8,6 @@ def sub_strings(dictionary, string)
         substrings[word] = finds_number if finds_number != 0
     end
 
-    puts substrings
     substrings
 end 
 
